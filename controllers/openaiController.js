@@ -5,7 +5,7 @@ const { OPENAI_API_KEY } = process.env;
 
 const configuration = new Configuration({
     
-    apiKey: "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",
+    apiKey: "give your id",
   });
 
 const openai = new OpenAIApi(configuration);
